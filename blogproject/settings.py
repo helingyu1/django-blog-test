@@ -25,7 +25,7 @@ SECRET_KEY = 'gz6)^p8a%2s+40shg7-%yxr=m6+tp7fbx_8q4^+nw7x(dm9kjl'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['47.94.106.157','.love-summer.cn']
+ALLOWED_HOSTS = ['47.94.106.157','.love-summer.cn','127.0.0.1']
 
 
 # Application definition
